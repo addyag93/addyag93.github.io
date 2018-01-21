@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Aditya Gupta</title>
+    <link>https://addyag93.github.io/project/</link>
+    <description>Recent content in Projects on Aditya Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://addyag93.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AAO auctions- A real Time Bidding Platform</title>
+      <link>https://addyag93.github.io/project/aaoauctions/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://addyag93.github.io/project/aaoauctions/</guid>
+      <description> An online land &amp;amp; property e-auction website.
+ Buyers can perform real time bidding on various commercial/residential properties available for e- auction.
+ Front-end designed using HTML5, CSS, JSP web programming and Oracle 10g for storing and querying related tables.
+  </description>
+    </item>
+    
+    <item>
+      <title>Design and Implementation of “MiniDBMS”</title>
+      <link>https://addyag93.github.io/project/minidbms/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://addyag93.github.io/project/minidbms/</guid>
+      <description> A database management system written in C++, with no use of database packages. Software allows the creation, definition, querying, administration and updating of user defined databases. Software uses lex for query tokenization and yacc compiler for parsing input queries. Uses B+tree indexing for data retrieval on “Where” clause. Graded A+ for the project.  </description>
+    </item>
+    
+    <item>
+      <title>Document categorization based on technicality</title>
+      <link>https://addyag93.github.io/project/formal_inf/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://addyag93.github.io/project/formal_inf/</guid>
+      <description>Studied the significance of Readability formulas, acquired from linguistic domain on document classification.
+ Developed a new input feature set extracted from graph-of-word representation of text.
+ Analysed and reported the impact of document length, different content words set in effective document classification.
+ Contributed two large dataset for machine learning based text analysis, available on GitHub for public use.
+ This method finds its usage as filtering attribute in advance search tools, user profile over web that includes user’s interests and behaviour while browsing web pages.</description>
+    </item>
+    
+    <item>
+      <title>Give-me-Mine</title>
+      <link>https://addyag93.github.io/project/give-me-mine/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://addyag93.github.io/project/give-me-mine/</guid>
+      <description>Invented a ranking system that re-ranks the search query results based on technical complexity of the documents.
+ Predictive model uses a topological graph properties extracted from graph representation of text as input feature set.
+ Graph representation captures conceptual cohesion, conveying author’s intent.
+ Topological features captures cohesiveness, topic complexity and connectedness in constructing technicality score predictor.
+ Attained predicting accuracy of more than 96% over test queries results, indicating high reliability.</description>
+    </item>
+    
+    <item>
+      <title>Live Chat App</title>
+      <link>https://addyag93.github.io/project/live_chat/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://addyag93.github.io/project/live_chat/</guid>
+      <description> A chat application, written in Java using JADE software framework and interface using SwingGUI forms. Facilitate users even from different geographical regions to communicate by just sharing their IP’s.  </description>
+    </item>
+    
+    <item>
+      <title>Single Document Keyword Extraction - A Comparative Study</title>
+      <link>https://addyag93.github.io/project/keywordextract/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://addyag93.github.io/project/keywordextract/</guid>
+      <description> Implemented Text Rank Algo. (based on Google’s PageRank) and Kcore algorithm in R.
+ Analysed and reported the impact of stemming on Qualitative Performance of both algorithms. Compared and reported the Scalability of both graph based algorithms. Refuted the author’s claim that Kcore is comparatively better for Keyword extraction over TextRank.  </description>
+    </item>
+    
+  </channel>
+</rss>

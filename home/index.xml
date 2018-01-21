@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Aditya Gupta</title>
+    <link>https://addyag93.github.io/home/</link>
+    <description>Recent content in Homes on Aditya Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://addyag93.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://addyag93.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://addyag93.github.io/home/about/</guid>
+      <description>body { text-align: justify}  Hey there ! Hey! I am currently working as Researcher under Prof. Vasudha Bhatnagar at Department of Computer Science, University of Delhi. I have a demonstrated history of working in academics with certified skills in R, Python, Tableau and other Data Mining tools. I have completed my Masters, focused in Computer Science from University of Delhi, India. My primary research interest is Text Mining with a focus on finding graph analytical based solutions to the problems.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://addyag93.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://addyag93.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research&amp; Work Experience</title>
+      <link>https://addyag93.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://addyag93.github.io/home/teaching/</guid>
+      <description>Researcher (Oct&amp;rsquo;16 - Present) Department of Computer Science,
+University of Delhi
+ Designed an efficient Automatic Document Technicality Score Predictor.
+ Method efficiently rank Search Results, e-Resources, Video manuscripts based on user’s technicality proficiency.
+ Patent is pending for the invention.  Stanford Scholar (Mar&amp;rsquo;17 - Sep&amp;rsquo;17) Stanford University
+ A research community of more than 800 students and researchers worldwide working under guidance of well known professors from Stanford University.</description>
+    </item>
+    
+    <item>
+      <title>Achievements</title>
+      <link>https://addyag93.github.io/home/other_acc/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://addyag93.github.io/home/other_acc/</guid>
+      <description>University &amp;ldquo;Silver Medalist&amp;rdquo; in Post Graduation (MSc. Computer Science).
+ University &amp;ldquo;Gold Medalist&amp;rdquo; in Graduation (BSc. (H) Computer Science).
+ Awarded with “Ram Manohar Lohia Award” for academic excellence in graduation by University of Delhi.
+ Recipient of “KPMG Scholarship” by KPMG India for three consecutive years of graduation.
+ Co-founder of “KRONOS” - Technical society of Business College SSCBS.
+ Worked as &amp;ldquo;President&amp;rdquo; of KRONOS (2013-2014).
+ Worked as &amp;ldquo;Control Room Manager&amp;rdquo; at - Sankalan’14, Annual Technical fest of University of Delhi.</description>
+    </item>
+    
+    <item>
+      <title>Certifications</title>
+      <link>https://addyag93.github.io/home/technical_proficiency/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://addyag93.github.io/home/technical_proficiency/</guid>
+      <description>Specialization: Mastering Software Development in R (Grading in progress)  John Hopkins University
+ Coursera Certificate 
+ Building Data Visualisation Tools in R  John Hopkins University
+ Coursera Certificate 
+ Machine Learning  Stanford University
+ Coursera Certificate 
+ Basic Statistics University of Amsterdam
+ Coursera Certificate 
+ Building R Packages  John Hopkins University
+ Coursera Certificate 
+ Advance R Programming  John Hopkins University</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>https://addyag93.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://addyag93.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

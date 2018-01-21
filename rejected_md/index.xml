@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rejected_mds on Aditya Gupta</title>
+    <link>https://addyag93.github.io/rejected_md/</link>
+    <description>Recent content in Rejected_mds on Aditya Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://addyag93.github.io/rejected_md/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://addyag93.github.io/rejected_md/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://addyag93.github.io/rejected_md/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://addyag93.github.io/rejected_md/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://addyag93.github.io/rejected_md/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://addyag93.github.io/rejected_md/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://addyag93.github.io/rejected_md/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://addyag93.github.io/rejected_md/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://addyag93.github.io/rejected_md/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://addyag93.github.io/rejected_md/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://addyag93.github.io/rejected_md/deep-learning/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+    </item>
+    
+  </channel>
+</rss>
